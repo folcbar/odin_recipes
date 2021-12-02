@@ -1,0 +1,22 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: sandybrown;
+    text-align: center;
+    background-color: saddlebrown;
+}
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+body{
+    background-image: url(cooking.jpg);
+    background-size: cover;
+}
+h3, p{
+    text-align: center;
+    color: sandybrown;
+    background-color: saddlebrown;
+}
